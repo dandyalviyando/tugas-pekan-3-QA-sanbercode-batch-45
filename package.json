@@ -1,0 +1,22 @@
+{
+  "name": "tugas-pekan-3---sanbercode-qa-batch-45---ignatius-dandy-alviyando",
+  "version": "1.0.0",
+  "description": "tugas pekan 3",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandyalviyando/tugas-pekan-3-QA-sanbercode-batch-45.git"
+  },
+  "author": "dandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandyalviyando/tugas-pekan-3-QA-sanbercode-batch-45/issues"
+  },
+  "homepage": "https://github.com/dandyalviyando/tugas-pekan-3-QA-sanbercode-batch-45#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
